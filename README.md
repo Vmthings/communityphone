@@ -3,3 +3,4 @@
 ### Made by the community, and by everyone.
 Edit it, and do whatever, with pull requests.
 (just use lovyangfx)
+and make the performance fast.
